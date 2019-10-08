@@ -2,11 +2,11 @@
 
 Coursera [Data_Drive](https://www.coursera.org/learn/data-driven-astronomy)
 
+- [x] Thinking about data:
 
--[x] Thinking about data:
-    -[x] Lesson 2
-    -[x] Lesson 4
-    -[x] Lesson 6
+  - [x] Lesson 2
+  - [x] Lesson 4
+  - [x] Lesson 6
   
 -[ ] Big data makes things slow
     -[ ] Lesson 3
