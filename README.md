@@ -8,21 +8,21 @@ Coursera [Data_Drive](https://www.coursera.org/learn/data-driven-astronomy)
   - [x] Lesson 4
   - [x] Lesson 6
   
-- [ ] Big data makes things slow
+- [ ] Big data makes things slow:
   - [ ] Lesson 3
   - [ ] Lesson 5
         
-- [ ] Querying your data
+- [ ] Querying your data:
   - [ ] Lesson 3
   - [ ] Lesson 5
   
-- [ ] Managing your data
+- [ ] Managing your data:
   - [ ] Lesson 3
   - [ ] Lesson 4
   
-- [ ] Learning from data: regression
+- [ ] Learning from data: regression:
   - [ ] Lesson 3
   - [ ] Lesson 5
   
-- [ ] Learning from data: classification
+- [ ] Learning from data: classification:
   - [ ] Lesson 5
