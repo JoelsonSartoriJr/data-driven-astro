@@ -9,3 +9,7 @@ Coursera [Data_Drive](https://www.coursera.org/learn/data-driven-astronomy)
   - [x] Reads a FITS file
   - [x] Mean a FITS file
   - [x] Comparing Median and Mean
+  - [x] Time it!
+  - [x] How much does the median cost?
+  - [x] Challenge: Binapprox
+  - [x] Binapprox on FITS
