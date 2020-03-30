@@ -13,3 +13,5 @@ Coursera [Data_Drive](https://www.coursera.org/learn/data-driven-astronomy)
   - [x] How much does the median cost?
   - [x] Challenge: Binapprox
   - [x] Binapprox on FITS
+
+- [x] Week 2:
