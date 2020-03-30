@@ -14,4 +14,6 @@ Coursera [Data_Drive](https://www.coursera.org/learn/data-driven-astronomy)
   - [x] Challenge: Binapprox
   - [x] Binapprox on FITS
 
-- [x] Week 2:
+- [ ] Week 2:
+    
+  -[x] Heavenly angles
