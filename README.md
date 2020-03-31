@@ -16,4 +16,5 @@ Coursera [Data_Drive](https://www.coursera.org/learn/data-driven-astronomy)
 
 - [ ] Week 2:
     
-  -[x] Heavenly angles
+  - [x] Convert to decimal degrees
+  - [x] Heavenly angles
