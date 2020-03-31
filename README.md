@@ -18,3 +18,4 @@ Coursera [Data_Drive](https://www.coursera.org/learn/data-driven-astronomy)
     
   - [x] Convert to decimal degrees
   - [x] Heavenly angles
+  - [x] Playing with space cats
