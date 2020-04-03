@@ -14,10 +14,14 @@ Coursera [Data_Drive](https://www.coursera.org/learn/data-driven-astronomy)
   - [x] Challenge: Binapprox
   - [x] Binapprox on FITS
 
-- [ ] Week 2:
+- [x] Week 2:
     
   - [x] Convert to decimal degrees
   - [x] Heavenly angles
   - [x] Playing with space cats
   - [x] Look around you
   - [x] Matchup
+
+- [x] Week 3:
+
+  - [x] Microoptimisation
