@@ -26,3 +26,4 @@ Coursera [Data_Drive](https://www.coursera.org/learn/data-driven-astronomy)
 
   - [x] Microoptimisation
   - [x] Vectorisation
+  - [x] Break out
