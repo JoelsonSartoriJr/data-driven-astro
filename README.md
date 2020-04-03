@@ -25,3 +25,4 @@ Coursera [Data_Drive](https://www.coursera.org/learn/data-driven-astronomy)
 - [x] Week 3:
 
   - [x] Microoptimisation
+  - [x] Vectorisation
